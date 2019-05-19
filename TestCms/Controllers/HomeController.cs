@@ -11,6 +11,7 @@ namespace TestCms.Controllers
         // GET: Home
         public ActionResult Index()
         {
+            //do nothing
             return View();
         }
     }
